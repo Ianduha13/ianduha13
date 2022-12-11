@@ -1,6 +1,5 @@
-Hey, my name is Ian, im a Frontend Web Developer
+Hi there! I'm Ian, a Frontend Web Developer. 
 
-Check out my portfolio!
-https://my-portfolio-eta-bice.vercel.app/
+If you're interested, you can check out my portfolio at https://my-portfolio-eta-bice.vercel.app/. 
 
-How to reach me: ianduhamelhayes@gmail.com
+You can reach me at ianduhamelhayes@gmail.com if you have any questions.
