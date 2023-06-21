@@ -18,8 +18,6 @@ Feel free to shoot me an [email](mailto:ianduhamelhayes@gmail.com) if you want t
 
 When I'm not coding, you'll find me on the gym or reading a good book.
 
-## 🔗 Links
-
 [![Github](https://img.shields.io/github/followers/Ianduha13?label=follow&style=social)](https://github.com/Ianduha13)
 
 You can find more about my projects and experiences on [my portfolio](https://www.ianduhamel.vercel.app/).
