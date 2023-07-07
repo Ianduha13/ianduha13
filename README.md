@@ -8,7 +8,7 @@ When the screens go dark, you'll find me flexing at the gym or diving into a com
 
 ## 📝 Blogging my Journey
 
-I've recently embarked on a blogging journey on Medium. From tech insights to life in a startup, I'm chronicling my adventures there. Feel free to dive into my stories on [Medium](https://medium.com/@ianduhamelhayes) and let's engage in enriching discussions.
+I've recently embarked on a blogging journey on Medium. From tech insights to life in a startup, I'm chronicling my adventures there. Feel free to dive into my stories on [Medium](https://medium.com/@ianduhamel) and let's engage in enriching discussions.
 
 ## 🌐 Connect with me
 
