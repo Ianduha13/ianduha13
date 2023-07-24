@@ -17,5 +17,3 @@ Check out my projects on [my portfolio](https://www.ianduhamel.vercel.app/) or [
 [![Github](https://img.shields.io/github/followers/Ianduha13?label=follow&style=social)](https://github.com/Ianduha13)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ianduha13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-Happy coding!
