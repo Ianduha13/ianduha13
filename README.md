@@ -1,5 +1,3 @@
-Of course, let's distill it down:
-
 # Hey, I'm Ian! 👋
 
 I'm a web developer, navigating the digital realm much like my favorite games. A Vim enthusiast, I love the challenge of functional programming and I'm currently applying my skills in a fast-paced startup.
