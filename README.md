@@ -1,21 +1,23 @@
-# Hello, World! I'm Ian 👋
+Of course, let's distill it down:
 
-A Javascript developer with a passion for crafting code, unraveling complex problems, and never-ending learning. These days, I'm immersed in the thrilling world of startups, injecting my energy and creativity into a product I truly believe in.
+# Hey, I'm Ian! 👋
 
-Beyond the binary, I find joy in strengthening the ties within the developer community. Sharing knowledge, insights, and experiences is my way of giving back to this remarkable tech universe.
+I'm a web developer, navigating the digital realm much like my favorite games. A Vim enthusiast, I love the challenge of functional programming and I'm currently applying my skills in a fast-paced startup.
 
-When the screens go dark, you'll find me flexing at the gym or diving into a compelling book.
+When I'm not coding, I'm gaming or blogging about my tech journey.
 
-## 📝 Blogging my Journey
+## 📝 My Blog
 
-I've recently embarked on a blogging journey on Medium. From tech insights to life in a startup, I'm chronicling my adventures there. Feel free to dive into my stories on [Medium](https://medium.com/@ianduhamel) and let's engage in enriching discussions.
+I share insights and experiences on [Medium](https://medium.com/@ianduhamel). Feel free to join the conversation!
 
 ## 🌐 Connect with me
 
-Interested in a tech chat, startup stories, or ways to make the Web 3 community better? Let's chat! Shoot me an [email](mailto:ianduhamelhayes@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/Ianduha13).
+Reach out on [email](mailto:ianduhamelhayes@gmail.com) or [LinkedIn](https://www.linkedin.com/in/Ianduha13).
 
-Curious about my work? Explore my projects on [my portfolio](https://www.ianduhamel.vercel.app/) or peek into my coding life on [Github](https://github.com/Ianduha13).
+Check out my projects on [my portfolio](https://www.ianduhamel.vercel.app/) or [Github](https://github.com/Ianduha13).
 
 [![Github](https://img.shields.io/github/followers/Ianduha13?label=follow&style=social)](https://github.com/Ianduha13)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ianduha13&layout=donut&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ianduha13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Happy coding!
