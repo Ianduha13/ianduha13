@@ -13,5 +13,3 @@ I share insights and experiences on [Medium](https://medium.com/@ianduhamel). Fe
 Reach out on [email](mailto:ianduhamelhayes@gmail.com) or [LinkedIn](https://www.linkedin.com/in/Ianduha13).
 
 Check out my projects on [my portfolio](https://www.ianduhamel.tech/) or [Github](https://github.com/Ianduha13).
-
-[![Github](https://img.shields.io/github/followers/Ianduha13?label=follow&style=social)](https://github.com/Ianduha13)
