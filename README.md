@@ -7,7 +7,6 @@ I thrive in fast paced startup environments, leading teams, designing scalable a
 I share insights on AI, web development, and software engineering on Medium. Always open to discussions and new perspectives!
 
 ## 🌐 Let's Connect
-📧 Email: ianduhamelhayes@gmail.com
-💼 LinkedIn: linkedin.com/in/Ianduha13
-🌍 Portfolio: ianduhamel.com
-🛠 GitHub: github.com/Ianduha13
+- 📧 Email: ianduhamelhayes@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/ian-duhamel/
+- 🛠 GitHub: [github.com/Ianduha13](https://github.com/ianduha13)
