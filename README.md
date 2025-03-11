@@ -1,15 +1,13 @@
 # Hey, I'm Ian! 👋
+I'm a JavaScript Specialist with a strong focus on Next.js, AI driven web apps, and mobile development. As a Tech Lead at Hashi, I'm building AI powered B2B solutions that redefine how companies educate and communicate with their audiences.
 
-I'm a web developer, navigating the digital realm much like my favorite games. A Vim enthusiast, I love the challenge of functional programming and I'm currently applying my skills in a fast-paced startup.
+I thrive in fast paced startup environments, leading teams, designing scalable architectures, and staying ahead of the curve in AI and software engineering. Beyond coding, I enjoy sharing knowledge through blogging, open-source contributions, and mentoring.
 
-When I'm not coding, I'm gaming or blogging about my tech journey.
+## 📝 My Blog & Writings
+I share insights on AI, web development, and software engineering on Medium. Always open to discussions and new perspectives!
 
-## 📝 My Blog
-
-I share insights and experiences on [Medium](https://medium.com/@ianduhamel). Feel free to join the conversation!
-
-## 🌐 Connect with me
-
-Reach out on [email](mailto:ianduhamelhayes@gmail.com) or [LinkedIn](https://www.linkedin.com/in/Ianduha13).
-
-Check out my projects on [my portfolio](https://www.ianduhamel.tech/) or [Github](https://github.com/Ianduha13).
+## 🌐 Let's Connect
+📧 Email: ianduhamelhayes@gmail.com
+💼 LinkedIn: linkedin.com/in/Ianduha13
+🌍 Portfolio: ianduhamel.com
+🛠 GitHub: github.com/Ianduha13
